@@ -17,6 +17,7 @@ public class StudentDemo
   private String course;
   private String demo;
   private String oneMoreVariable;
+  private int i;
   /**
    * A constructor to pass in the given ID and then name
    * @param givenID - the ID to assign
